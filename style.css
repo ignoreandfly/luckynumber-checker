@@ -1,0 +1,14 @@
+body{
+    background-color: purple; 
+}
+.heading1{
+    text-align: center;
+}
+#luckynumber-container{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#result{
+    font-size: larger;
+}
